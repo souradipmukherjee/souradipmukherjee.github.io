@@ -11,7 +11,7 @@ redirect_from:
 
 Research interests
 ======
-cryo-electron tomography (cryo-ET), cryo-FIB milling, cryo-electron microscopy (cryo-EM), in situ structural biology, cellular structural biology, Serial Lift-Out, Serialized On Grid Lift-In Sectioning for Tomography (SOLIST)
+cryo-electron tomography (cryo-ET), cryo-electron microscopy (cryo-EM), cryo-FIB milling, in situ structural biology, Serial Lift-Out, Serialized On Grid Lift-In Sectioning for Tomography (SOLIST)
 
 Education
 ======
@@ -35,16 +35,8 @@ Research experience
 
 Skills
 ======
-* Laboratory
   * Cryo-EM, cryo-ET, cryo-FIB milling
-  * Expansion microscopy
-  * X-ray crystallography
-  * Protein purification (Ni-NTA, ion-exchange, size-exclusion chromatography), HPLC
-* Software
-  * RELION, Warp/M, Dynamo, STOPGAP, IMOD, AreTomo, Tomo5, EPU, cryoSPARC, EMAN2
-  * CCP4, Coot, Chimera, PyMOL
-* Languages
-  * Bengali, English, Hindi
+  * Expansion microscopy, X-ray crystallography, Protein purification
 
 Publications
 ======

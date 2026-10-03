@@ -35,8 +35,8 @@ Research experience
 
 Skills
 ======
-  * Cryo-EM, cryo-ET, cryo-FIB milling
-  * Expansion microscopy, X-ray crystallography, Protein purification
+  * cryo-EM, cryo-ET, cryo-FIB milling,  expansion microscopy
+  * X-ray crystallography, protein purification
 
 Publications
 ======

@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "bec3536e-3533-40c9-bf84-29cccca34570.jpeg"
+  avatar           : "profile.jpg"
   name             : "Souradip Mukherjee"
   pronouns         : # example: "she/her"  
   bio              : "PhD student"

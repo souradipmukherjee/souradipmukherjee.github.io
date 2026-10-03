@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Souradip Mukherjee"
   pronouns         : # example: "she/her"  
-  bio              : "PhD student i"
+  bio              : "PhD student"
   location         : "Geneva, Switzerland"
   employer         : "Univeristy of Geneva"
   uri              : # URL
@@ -41,7 +41,7 @@ author:
   orcid            : "https://orcid.org/0000-0002-7037-1996"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=souradip+mukherjee"
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
